@@ -5,7 +5,7 @@
 The purpuse of this analysis is to apply different techniques to train and evaluate models with unbalanced classes.
 
 ## Results: 
-![](2022-01-23-09-20-29.png)
+![](images/Balance_accuracy_score.png)
 
 
 
