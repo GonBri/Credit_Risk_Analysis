@@ -7,6 +7,11 @@ The purpuse of this analysis is to apply different techniques to train and evalu
 ## Results: 
 ![](images/Balance_accuracy_score.png)
 
+![](images/HIgh_Risk_Presicion_score.jpeg)
+
+![](images/High_Risk_Recall_score.jpeg)
+
+
 
 
 ## Summary: 
